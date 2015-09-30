@@ -5,7 +5,7 @@ locale: pt_PT
 description: a Software Developer from Portugal!
 logo: me.png
 search: false
-url: http://localhost:4000
+url: http://ricardocoutinho.me
 
 # Jekyll configuration
 
